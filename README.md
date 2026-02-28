@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on learning Game Developments
-- 🌱 I’m currently studying at PHINMA University of Pangasinan
+- 🔭 I’m currently working on Web Developments
+- 🌱 Studied at PHINMA University of Pangasinan
 - 💬 Ask me about anything related to IT
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im a Minecraft Server Developer
